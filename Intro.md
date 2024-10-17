@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rawani53
+- 👋 Nmaste, I’m @rawani53
 - 🌱 I’m currently learning android development
 - 📫 Email: work.pranav53@gmail.com
 
